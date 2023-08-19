@@ -1,4 +1,4 @@
-import classes from './Contact-form.module.css';
+import classes from './contact-form.module.css';
 import {useState, useEffect} from 'react';
 import Notification from '../ui/notification';
 

@@ -25,3 +25,7 @@
       padding: var(--size-8);
     }
   }
+
+  .smallerCode {
+    font-size: 0.6em;  
+  }

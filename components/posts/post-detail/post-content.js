@@ -52,6 +52,7 @@ function PostContent(props) {
                 language={language} 
                 children={children}
                 style={atomDark}
+                className={classes.smallerCode}
             />
         );
     }

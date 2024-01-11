@@ -3,7 +3,7 @@ title: 'Small Shell Implementation'
 date: '2023-8-17'
 image: small-shell.jpg
 excerpt: In this post, I'll explain how I implemented a basic shell in C for a class assignment. The goal was to build a simple shell with basic features like handling multiple commands, I/O redirection, environment variable expansion, and managing foreground and background processes. 
-isFeatured: true
+isFeatured: false
 ---
 
 
